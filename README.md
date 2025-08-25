@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 📫 How to reach me: [Email](mailto:dmdmdm1322@gmail.com) [Email](mailto:kwonnaru@kakao.com)
+- 📫 How to reach me: [dmdmdm1322](mailto:dmdmdm1322@gmail.com), [Naru](mailto:kwonnaru@kakao.com)
 
 ## Skills
 
