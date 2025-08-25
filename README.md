@@ -4,11 +4,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **Data Science** and **Machine Learning**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java**, **Machine Learning**, and **Data Analysis**
-- 📫 How to reach me: [Email](mailto:kwonnaru@example.com)
-- ⚡ Fun fact: I love hiking and exploring new places
+- 📫 How to reach me: [Email](mailto:dmdmdm1322@gmail.com) [Email](mailto:kwonnaru@kakao.com)
 
 ## Skills
 
